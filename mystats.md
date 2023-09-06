@@ -29,7 +29,7 @@ I am from Nizamabad,Telangana and I have completed my Bachlores degree from Goka
 ****
 
 
-## Coding Fencing
+## Code Fencing
 
 Link to PHP:
 https://stackoverflow.com/questions/770876/how-do-i-add-gravatar-identicons-into-ruby-on-rails
