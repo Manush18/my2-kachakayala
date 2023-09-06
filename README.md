@@ -21,7 +21,7 @@ Climb to the top of the Eiffel Tower, stroll down the Champs Elysées, visit the
    * Macarons
 
    ******
-
+[Link About Myself](mystats.md)
 # Sports
  Sports like learning and working,help us develop a helthy mind and body. Additionally, it instills in us crucial virtues and life lessons thats mold our personalities and promote our mental and physical development. We learn to strategize, comfort obstacles head-on, and develop our critical thinking problem- sloving, and decisions-making skills through sports.All of this contributes to our mental and physical health, which is essiental for leading fullfilling lives.
 
