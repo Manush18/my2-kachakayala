@@ -1,5 +1,23 @@
 # Manush Kumar Kachakayala
 
-### Nizamabad
+### Paris
 
-Nizamabad, located in Telangana, India, is a historic city with a rich cultural heritage. It's renowned for its agricultural importance, especially in the production of turmeric and sorghum. The city is dotted with **ancient temples and architectural gems**, reflecting its diverse history. The Nizamabad Fort stands as a testament to its past, attracting visitors with its grandeur. With a mix of tradition and modernity, Nizamabad remains a **significant center in the region.**
+There are a thousand things to do and see in Paris and however much time you have here, it won’t be enough:
+
+Climb to the top of the Eiffel Tower, stroll down the Champs Elysées, visit the Louvre, see many shows and exhibitions, or simply wander along the banks of the Seine...read in French in the Tuileries garden, and quite simply take the time to experience the Parisian way of life!
+
+****
+## ORDERED LIST:
+1. Effiel Tower
+2. Disney Land
+3. Vintage Cars
+4. Pont des Arts (Bridge)
+
+*****
+
+## UNOREDRED LIST:
+   * Donets
+   * Soups
+   * Macarons
+
+   
